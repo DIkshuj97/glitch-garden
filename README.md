@@ -1,4 +1,4 @@
-Glitch Garden
+# Glitch Garden
 
 Glitch Garden is Tower Defence and Strategy Game. This game is clone of Plants Vs Zombie by EA Games. 
 In The Game, Player must Defend his Garden from Animals by placing Props which have Special attacks like attacking projectile and act like Defending Barrier. 
